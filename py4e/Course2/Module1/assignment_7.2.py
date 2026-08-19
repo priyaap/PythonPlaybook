@@ -31,9 +31,3 @@ for num1 in numarray:
     total = total + num1 
 
 print("Average spam confidence:", total/len(numarray))
-
-
-
-
-        
-
