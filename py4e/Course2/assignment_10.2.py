@@ -25,3 +25,4 @@ for line in handle:
 m=(sorted([(h,c) for h,c in hours.items()]))
 for h,c in m:
     print(h,c)
+    
