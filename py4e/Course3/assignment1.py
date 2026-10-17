@@ -1,1 +1,0 @@
-print("Ganpati Bappa Moraya")
