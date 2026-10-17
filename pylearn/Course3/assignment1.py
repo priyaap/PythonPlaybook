@@ -1,0 +1,1 @@
+print("Ganpati Bappa Moraya")

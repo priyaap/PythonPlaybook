@@ -1,0 +1,1 @@
+print('GANPATI BAPPA MORAYA')
